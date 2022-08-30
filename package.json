@@ -1,0 +1,29 @@
+{
+  "name": "form_field",
+  "version": "1.0.0",
+  "description": "what we enter in the form will be store in mongo database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9392473947/major_project.git"
+  },
+  "keywords": [
+    "mongodb",
+    "majorproject"
+  ],
+  "author": "chaithu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9392473947/major_project/issues"
+  },
+  "homepage": "https://github.com/9392473947/major_project#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3",
+    "nodemon": "^2.0.19"
+  }
+}
